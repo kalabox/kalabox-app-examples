@@ -1,5 +1,5 @@
-name: example.html1
-type: examplehtml1
+name: html1.example
+type: example
 version: 0.13.0-alpha.1
 pluginconfig:
   sharing:
